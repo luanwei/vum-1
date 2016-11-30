@@ -13,12 +13,12 @@ Mock.mock('http://demos/Home/keeper/buildings', {
         {
             "building_id": "337",
             "building_name": "2",
-            "es_building_id": "74a4247e-4847-4d90-b4a6-6289f130d64e"
+            "es_building_id": "asdkfaslkdjfsdkf"
         },
         {
             "building_id": "344",
             "building_name": "006",
-            "es_building_id": "6a42e061-7401-4fc7-bbb1-d5dec2b1fa75"
+            "es_building_id": "asdkfasdlkfjsad"
         },
     ]
 
@@ -33,14 +33,14 @@ Mock.mock('http://demos/Home/keeper/info', {
         "errmsg": "success",
         "data": {
             "id": "11",
-            "user_id": "15123911315",
+            "user_id": "112331315",
             "name": "叶余晓欧",
-            "phone": "15123911315",
+            "phone": "41312313231",
             "tel": "023-66666666",
-            "community_name": "金科王府",
+            "community_name": "天王盖地府",
             "community_id": "151",
-            "modify_time": "1470733761",
-            "create_time": "1466583085"
+            "modify_time": "12321313",
+            "create_time": "144546"
         }
     }
 );
@@ -56,93 +56,93 @@ Mock.mock('http://demos/Home/PropertyPayment/list', {
     "errcode": 0,
     "errmsg": "",
     "data": [ {
-        "AREA_NAME": "苏州·枫景颐庭",
-        "BUILD_NO": "苏州·枫景颐庭",
-        "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-        "CONTACT": "13771844188",
+        "AREA_NAME": "武隆修女山",
+        "BUILD_NO": "武隆修女山",
+        "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+        "CONTACT": "12345679823",
         "FLD_AMOUNT": "4373.46",
         "OWNER_NAME": "未售,马恩妹",
-        "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+        "RESOURCE_ID": "1321",
         "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "1321346263216",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         },
         {
-            "AREA_NAME": "苏州·枫景颐庭",
-            "BUILD_NO": "苏州·枫景颐庭",
-            "BUILD_NO_ID": "a59f4480-dee5-414d-87e1-85b0e1b08d32",
-            "CONTACT": "13771844188",
+            "AREA_NAME": "武隆修女山",
+            "BUILD_NO": "武隆修女山",
+            "BUILD_NO_ID": "14332132d12dfa31333213d1fasdf1313asd1f3",
+            "CONTACT": "12345679823",
             "FLD_AMOUNT": "4373.46",
             "OWNER_NAME": "未售,马恩妹",
-            "RESOURCE_ID": "4720ee19-432b-4804-9241-0722ee6f5b08",
+            "RESOURCE_ID": "132134626321654.06532456523654343212",
             "RESOURCE_NAME": "066"
         }
     ]
@@ -207,7 +207,7 @@ Mock.mock('http://demos/Home/PropertyPayment/detail', {
             }
         ],
         "total": {
-            "BUILD_NO": "西城大院",
+            "BUILD_NO": "天上人间",
             "CONTACT": "18623386125,15804083837,15736075176",
             "OWNER_NAME": "春生",
             "RESOURCE_NAME": "17-603",
