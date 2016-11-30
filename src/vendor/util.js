@@ -1,3 +1,6 @@
+/**
+ * luanwei 这里放公共的方法
+ */
 export default {
   extend (a, b) {
     for (var i in b) {

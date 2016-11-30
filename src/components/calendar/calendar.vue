@@ -1,4 +1,4 @@
-<template>
+<template xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-swipe="http://www.w3.org/1999/xhtml">
   <div class="calendar">
     <div class="toolbar">
       <div class="year-picker">

@@ -1,11 +1,11 @@
-var path = require('path')
-var config = require('../config')
-var utils = require('./utils')
-var projectRoot = path.resolve(__dirname, '../')
+var path = require('path');
+var config = require('../config');
+var utils = require('./utils');
+var projectRoot = path.resolve(__dirname, '../');
 
 module.exports = {
   entry: {
-    app: './src/main.js'
+    app: './src/index.js' //luanwei 设置程序入口文件 
   },
   output: {
     path: config.build.assetsRoot,
@@ -25,6 +25,7 @@ module.exports = {
     fallback: [path.join(__dirname, '../node_modules')]
   },
   module: {
+  /*
     preLoaders: [
       {
         test: /\.vue$/,
@@ -38,7 +39,7 @@ module.exports = {
         include: projectRoot,
         exclude: /node_modules/
       }
-    ],
+    ],*/ //栾伟 注释 eslint 模块
     loaders: [
       {
         test: /\.vue$/,
@@ -82,4 +83,4 @@ module.exports = {
   vue: {
     loaders: utils.cssLoaders()
   }
-}
+};

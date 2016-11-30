@@ -29,7 +29,8 @@
   "dependencies": {
     "babel-runtime": "^6.0.0",
     "moment": "^2.14.1",
-    "vue": "^1.0.21"
+    "vue": "^1.0.21",
+    "vue-resource": "^1.0.3"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
@@ -81,6 +82,7 @@
     "vue-loader": "^8.3.0",
     "vue-router": "^0.7.13",
     "vue-style-loader": "^1.0.0",
+    "vue-resource":"^1.0.3",
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0",

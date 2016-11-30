@@ -1,6 +1,6 @@
-import BackLink from './directives/back-link'
-import Swipe from './directives/swipe'
-import Transitionend from './directives/transitionend'
+import BackLink from '../directives/back-link'
+import Swipe from '../directives/swipe'
+import Transitionend from '../directives/transitionend'
 import db from './db'
 import Vue from 'vue'
 
